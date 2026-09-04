@@ -9,3 +9,4 @@ semana2:
 4. Ejercicios Extras sem2: Con estos códigos se practico el uso de ciclos while y ciclos for.
 semana3:
 5. Avance de proyecto: En este avance se planteo el problema a resolver para la entrega final, en el que se creara un programa para la administración de los balones deportivos en la universidad tecmilenio: es el archivo avance_de_proyecto_balones.md
+6. Semana 4: Se realizo una tabla pitagórica la cual nos da el resultado de una multiplicación, sin usar una multiplicación, funciona a base de listas, matrices y valores que devuelven y no valores. El código final es el del archivo: Actividad_evaluable_tablaP.ipynb
