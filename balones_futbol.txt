@@ -1,0 +1,10 @@
+BALÓN DE FÚTBOL
+Estado: Prestado
+Alumno: Alberto Quintanar
+Semestre: 1
+Fecha: 25/9/2026
+Lugar de entrega: Gimnasio
+
+DEVOLUCIÓN
+Estado: Disponible
+Fecha de devolución: 25/9/2026
