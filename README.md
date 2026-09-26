@@ -12,3 +12,4 @@ semana3:
 6. Semana 4: Se realizo una tabla pitagórica la cual nos da el resultado de una multiplicación, sin usar una multiplicación, funciona a base de listas, matrices y valores que devuelven y no valores. El código final es el del archivo: Actividad_evaluable_tablaP.ipynb
 7. Semana 5: Se realizo un menú interactivo en el que cada opción ejecutaba una acción referente a los temas vistos en la semana, el código evaluable se encuentra en el archivo Actividad_Menú_int.ipynb
 8. Semana 6: Se realizo la certificación, en el archivo de la semana 6 se encuentran los ejercicios de castigo
+9. Semana 7: En esta penúltima semana del curso, se termino de realizar el proyecto final, que en mi caso fue de los balones en la universidad Tecmilenio, en la carpeta de la semana 7 se encuentran algunos de los prototipos del código, pero el código final junto con el documento, se encuentran en la carpeta con el nombre de "Proyecto Final".
